@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Eva, a ✨ _sorceress of technological shenanigans_ ✨ and freelance software developer :)
+I'm Eva Lauren, a ✨ _sorceress of technological shenanigans_ ✨ and freelance software developer :)
 
-- 🔭 I'm currently working on reverse engineering and reimplementing game servers at @KaeruTeam, where I lead development and overall management of the project.
-- 🌱 I'm currently learning C++ through 3DS homebrew development -- check out my work-in-progress game! https://github.com/thejsa/rhythm-run
-- ✨ My pronouns are she/her or they/them
-- 📫 You can reach me on Twitter as [@thejsa_](https://twitter.com/thejsa_) or get in touch on Discord via the [Kaeru Community guild](https://discord.kaeru.world) :tada:
+- 🔭 I'm currently working on reverse engineering and reimplementing game servers at @KaeruTeam, where I lead development and overall management of the project. https://kaeru.world
+- 🌱 I'm learning C++ through 3DS homebrew development -- check out my (extremely work-in-progress) game! https://github.com/thejsa/rhythm-run
+- ✨ I go by she/her or they/them pronouns
+- 📫 You can reach me on the Fediverse as [@eval@glauca.space](https://glauca.space/@eval) or get in touch in other ways via my website at https://froggybrolly.one .
 
 <!--
 **thejsa/thejsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
